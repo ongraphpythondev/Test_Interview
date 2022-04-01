@@ -55,7 +55,7 @@ Transactions =>http://localhost:8000/api/v1/transactions/
 
 
     
-## Required Validations in transictions
+## Required Validations in transactions
 
 * It checks country with its currency.
 * It checks whether the country is valid or not.
